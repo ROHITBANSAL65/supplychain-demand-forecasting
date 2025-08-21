@@ -1,0 +1,1 @@
+{"store_cats": [101, 102], "sku_cats": ["A100", "B200"], "features": ["store_id", "sku_id", "on_promo", "price", "lag_1", "lag_7", "lag_14", "rollmean_7", "rollmean_14", "dayofweek", "weekofyear", "month", "year", "is_weekend"]}

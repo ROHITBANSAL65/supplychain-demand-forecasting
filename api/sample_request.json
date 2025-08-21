@@ -1,0 +1,245 @@
+{
+  "history": [
+    {
+      "date": "2024-03-31",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 99.6,
+      "sales": 63.72
+    },
+    {
+      "date": "2024-04-01",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 98.14,
+      "sales": 62.69
+    },
+    {
+      "date": "2024-04-02",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 98.87,
+      "sales": 60.7
+    },
+    {
+      "date": "2024-04-03",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 101.91,
+      "sales": 62.82
+    },
+    {
+      "date": "2024-04-04",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 99.29,
+      "sales": 67.52
+    },
+    {
+      "date": "2024-04-05",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 1,
+      "price": 90.38,
+      "sales": 63.03
+    },
+    {
+      "date": "2024-04-06",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 1,
+      "price": 89.96,
+      "sales": 74.15
+    },
+    {
+      "date": "2024-04-07",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.23,
+      "sales": 67.52
+    },
+    {
+      "date": "2024-04-08",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 97.5,
+      "sales": 54.29
+    },
+    {
+      "date": "2024-04-09",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 99.32,
+      "sales": 58.53
+    },
+    {
+      "date": "2024-04-10",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 99.38,
+      "sales": 73.16
+    },
+    {
+      "date": "2024-04-11",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.56,
+      "sales": 59.77
+    },
+    {
+      "date": "2024-04-12",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 1,
+      "price": 89.22,
+      "sales": 73.49
+    },
+    {
+      "date": "2024-04-13",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 1,
+      "price": 91.48,
+      "sales": 74.46
+    },
+    {
+      "date": "2024-04-14",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.29,
+      "sales": 61.14
+    },
+    {
+      "date": "2024-04-15",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.48,
+      "sales": 57.12
+    },
+    {
+      "date": "2024-04-16",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 101.62,
+      "sales": 63.59
+    },
+    {
+      "date": "2024-04-17",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.92,
+      "sales": 63.11
+    },
+    {
+      "date": "2024-04-18",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 101.1,
+      "sales": 60.88
+    },
+    {
+      "date": "2024-04-19",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.63,
+      "sales": 55.91
+    },
+    {
+      "date": "2024-04-20",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.12,
+      "sales": 63.58
+    },
+    {
+      "date": "2024-04-21",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.76,
+      "sales": 64.81
+    },
+    {
+      "date": "2024-04-22",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.05,
+      "sales": 61.54
+    },
+    {
+      "date": "2024-04-23",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 97.89,
+      "sales": 61.07
+    },
+    {
+      "date": "2024-04-24",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 99.5,
+      "sales": 65.3
+    },
+    {
+      "date": "2024-04-25",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 99.05,
+      "sales": 67.73
+    },
+    {
+      "date": "2024-04-26",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.44,
+      "sales": 56.62
+    },
+    {
+      "date": "2024-04-27",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 1,
+      "price": 91.31,
+      "sales": 70.53
+    },
+    {
+      "date": "2024-04-28",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 99.77,
+      "sales": 54.82
+    },
+    {
+      "date": "2024-04-29",
+      "store_id": 101,
+      "sku_id": "A100",
+      "on_promo": 0,
+      "price": 100.24,
+      "sales": 61.99
+    }
+  ],
+  "future_days": 7
+}
