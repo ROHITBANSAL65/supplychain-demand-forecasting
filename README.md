@@ -139,7 +139,7 @@ Main dependencies:
 
 ## Future Work
 
-* Add holiday features (Prophet-style regressors).
+* Add holiday features
 * Support multiple models (XGBoost, LightGBM, LSTM).
 * Dockerize API & dashboard for deployment.
 * Integrate real-world external data (weather, inventory).
